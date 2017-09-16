@@ -1,0 +1,30 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Fast Data News
+paginate:       10
+baseurl:        ""
+url:            "https://metanet.github.io/fastdatanews"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Basri Kahveci
+  url:          http://basrikahveci.com
+  email:        ebkahveci@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+
+# Gems
+gems:
+  - jekyll-paginate
