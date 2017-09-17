@@ -12,5 +12,5 @@ permalink: pretty
 
 # Third-party services
 # just leave empty to disable it
-google_analytics:
-disqus_shortname: hnbloggithub
+google_analytics: UA-485423-7
+disqus_shortname: fast-data-news
