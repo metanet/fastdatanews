@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Autopiloting #realtime Stream Processing in Heron
+title: Autopiloting Realtime Stream Processing in Heron
 tags: [twitter heron, stream processing]
 author: Basri Kahveci
 comment: true
