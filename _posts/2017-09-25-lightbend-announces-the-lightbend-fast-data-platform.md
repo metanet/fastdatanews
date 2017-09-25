@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lightbend Announces Lightbend Fast Data Platform
+title: Lightbend Announces the Lightbend Fast Data Platform
 tags: [lightbend, stream processing, fast data, apache flink, apache kafka, apache spark, akka streams]
 author: Basri Kahveci
 comment: true
@@ -13,7 +13,7 @@ Enterprises can build their data processing systems using the Lightbend Fast Dat
 - A data backbone on top of Apache Kafka, 
 - Various solutions for storage (HDFS, S3 and NoSQL backends), 
 - Multiple endpoints to ingest data into the system, 
-A containerized infrastructure
+- A containerized infrastructure,
 - Management and monitoring interfaces.  
 
 Additional information about the Fast Data Platform can be found [here](https://info.lightbend.com/technical-overview-fast-data-platform.html?utm_source=press-release&utm_medium=lb-press-release&utm_campaign=COLL-20XX-Fast-Data-Platform-Tech-Overview&utm_term=none&utm_content=none&_ga=2.90869338.1169276254.1506372981-2088870408.1506372981).
