@@ -2,7 +2,7 @@
 layout: post
 title: Crossing the Streams - Joins in Apache Kafka
 tags: [apache kafka, kafka streams, stream processing]
-author: Basri Kahveci
+author: Ensar Basri Kahveci
 comment: true
 ---
 

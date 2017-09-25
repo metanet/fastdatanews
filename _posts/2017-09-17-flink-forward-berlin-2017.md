@@ -2,7 +2,7 @@
 layout: post
 title: Flink Forward Berlin 2017
 tags: [flink, stream processing]
-author: Basri Kahveci
+author: Ensar Basri Kahveci
 comment: true
 ---
 

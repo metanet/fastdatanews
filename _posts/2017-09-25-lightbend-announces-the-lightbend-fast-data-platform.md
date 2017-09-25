@@ -2,7 +2,7 @@
 layout: post
 title: Lightbend Announces the Lightbend Fast Data Platform
 tags: [lightbend, stream processing, fast data, apache flink, apache kafka, apache spark, akka streams]
-author: Basri Kahveci
+author: Ensar Basri Kahveci
 comment: true
 ---
 

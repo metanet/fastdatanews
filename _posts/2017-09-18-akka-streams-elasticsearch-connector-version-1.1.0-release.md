@@ -2,7 +2,7 @@
 layout: post
 title: Akka Streams Elasticsearch Connector Version 1.1.0 Release
 tags: [akka streams]
-author: Basri Kahveci
+author: Ensar Basri Kahveci
 comment: true
 ---
 
