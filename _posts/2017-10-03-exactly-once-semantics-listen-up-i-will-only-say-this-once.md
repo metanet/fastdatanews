@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exactly-Once Semantics: Listen up, I will only say this once!
+title: “Exactly-Once Semantics: Listen up, I will only say this once!”
 tags: [apache kafka, exactly-once]
 author: Ensar Basri Kahveci
 comment: true
