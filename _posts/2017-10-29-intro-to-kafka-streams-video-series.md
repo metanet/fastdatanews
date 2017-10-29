@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video Series: Intro to Apache Kafka Streams
+title: Intro to Apache Kafka Streams Video Series
 tags: [apache kafka, apache kafka streams, stream processing]
 author: Ensar Basri Kahveci
 comment: true
